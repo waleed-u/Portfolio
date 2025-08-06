@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Waleed Ahmed / AI Researcher & Software Engineer"
+title                    : "Waleed Ahmed"
 title_separator          : "-"
 name                     : &name "Waleed Ahmed"
-description              : &description "Final-semester Software Engineering student at NUST, Research Assistant at TUKL-NUST Deep Learning Lab, passionate about Explainable AI and Machine Learning"
+description              : &description "Recent Software Engineering Graduate, currently working at Huawei Pakistan"
 url                      : https://waleed-u.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "waleed-u/waleed-u.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Waleed Ahmed"
   pronouns         : "He/Him"  
-  bio              : "Final-semester Software Engineering student at NUST, Research Assistant at TUKL-NUST Deep Learning Lab, passionate about Explainable AI and Machine Learning"
+  bio              : "Recent Software Engineering Graduate passionate about AI, Machine Learning, and Software Development"
   location         : "Islamabad, Pakistan"
-  employer         : "TUKL-NUST Deep Learning Lab"
+  employer         : "Huawei Pakistan"
   uri              : # URL
   email            : "wahmed.bese21seecs@seecs.edu.pk" 
 
