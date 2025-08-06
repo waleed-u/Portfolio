@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   name             : "Waleed Ahmed"
-  pronouns         : "He/Him"  
-  bio              : "Recent Software Engineering Graduate passionate about AI, Machine Learning, and Software Development"
+  pronouns         : # "He/Him"  
+  bio              : # "Recent Software Engineering Graduate passionate about AI, Machine Learning, and Software Development"
   location         : "Islamabad, Pakistan"
   employer         : "Huawei Pakistan"
   uri              : # URL
