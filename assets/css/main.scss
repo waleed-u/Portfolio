@@ -196,30 +196,31 @@
     color: var(--global-color) !important;
   }
   
-  /* Professional Contact Buttons */
+  /* Simplified Contact Icons */
   .author__urls {
     
     .author__desktop {
-      margin: 8px 0 !important;
+      margin: 6px 0 !important;
+      font-size: 14px !important;
       
       i {
-        display: inline-flex !important;
-        align-items: center !important;
-        justify-content: center !important;
-        width: 35px !important;
-        height: 35px !important;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
-        color: #fff !important;
-        border-radius: 8px !important;
-        margin-right: 15px !important;
-        font-size: 16px !important;
-        box-shadow: 0 3px 10px rgba(102, 126, 234, 0.3) !important;
-        transition: all 0.3s ease !important;
+        display: inline-block !important;
+        width: 20px !important;
+        height: auto !important;
+        background: none !important;
+        color: #666 !important;
+        border-radius: 0 !important;
+        margin-right: 12px !important;
+        font-size: 14px !important;
+        box-shadow: none !important;
+        transition: color 0.2s ease !important;
+        text-align: center !important;
       }
       
       &:hover i {
-        transform: translateY(-2px) !important;
-        box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4) !important;
+        color: #667eea !important;
+        transform: none !important;
+        box-shadow: none !important;
       }
     }
     
@@ -272,18 +273,14 @@
     margin-bottom: 25px !important;
   }
   
-  /* Professional Location and Employer Styling */
+  /* Simplified Location and Employer Styling */
   .author__urls .author__desktop {
-    font-size: 16px !important;
-    font-weight: 500 !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
     color: var(--global-color) !important;
     display: flex !important;
     align-items: center !important;
-    padding: 12px 0 !important;
-    border-bottom: 1px solid rgba(0,0,0,0.05) !important;
-    
-    &:last-of-type {
-      border-bottom: none !important;
-    }
+    padding: 6px 0 !important;
+    border-bottom: none !important;
   }
 }

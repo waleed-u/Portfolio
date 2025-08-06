@@ -12,10 +12,25 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<style>
+.notice-under-construction {
+  color: #1976d2;
+  font-style: italic;
+  font-size: 1.05em;
+  margin-bottom: 1.2em;
+  display: block;
+}
+</style>
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
   <div class="archive">
+    {% if page.url == "/" %}
+      <span class="notice-under-construction">
+        🚧 This website is still under construction. For more and updated information, view my <a href="https://www.linkedin.com/in/waleed-u" target="_blank" style="color:#d32f2f; text-decoration:underline;">LinkedIn</a>. This website will be updated soon!
+      </span>
+    {% endif %}
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}

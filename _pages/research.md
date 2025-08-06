@@ -5,136 +5,56 @@ permalink: /research/
 author_profile: true
 ---
 
-## 🔬 Research Experience
+## 🧑‍🔬 Profile Summary & Research Interests
 
-### **Research Assistant - TUKL-NUST Deep Learning Lab**
-**Duration:** Academic Years 2022-2024  
-**Institution:** National University of Sciences & Technology (NUST)  
-**Supervisor:** [Lab Director Name]
+Aspiring Machine Learning researcher with hands-on experience in Machine Learning and Computer Vision, focused on deploying machine learning solutions for impactful, real-world applications. Fast learner, collaborative thinker, and always open to novel research directions and meaningful collaborations.
 
-#### **Primary Research Focus: Explainable AI for Automated EEG Interpretation**
-
-**Objective:** Developing transparent and interpretable AI systems for automated electroencephalogram (EEG) analysis to assist medical professionals in neurological diagnostics.
-
-**Key Research Contributions:**
-- Designed novel explainable AI architectures for EEG signal classification
-- Implemented attention mechanisms to highlight critical signal patterns
-- Developed visualization techniques for model interpretability
-- Conducted extensive validation studies on clinical EEG datasets
-
-**Technical Approach:**
-- Deep learning models with built-in explainability features
-- Signal processing techniques for EEG preprocessing
-- Feature extraction and selection methodologies
-- Statistical analysis and performance evaluation
+**Primary Interests:**
+- Explainable Artificial Intelligence (XAI)
+- Computer Vision
+- Deep Learning for Healthcare, Agriculture, and Robotics
+- Geospatial Analysis
+- Generative Models
+- Interpretable and Trustworthy AI
 
 ---
 
-## 🌍 International Research Experience
+## 🏢 Research Experience
 
-### **MITACS Globalink Research Internship**
-**Duration:** Summer 2023  
-**Institution:** Dalhousie University, Canada  
-**Program:** MITACS Globalink Research Internship Program
+### Research Assistant — TUKL-NUST Deep Learning Lab, National Center of Artificial Intelligence
+*Islamabad, Pakistan | Sept 2024 – May 2025*
+- Contributed to a funded project on Explainable AI for automated EEG interpretation, aimed at diagnosing neurological disorders using deep learning with human-interpretable concept-based explanations.
+- Engineered a trustworthy AI pipeline for EEG analysis and collaborated with neurologists and ML researchers to improve model interpretability and clinical relevance.
 
-**Research Project:** Advanced Machine Learning Applications in Healthcare
-- Collaborated with international research team
-- Explored cross-cultural approaches to AI in healthcare
-- Gained exposure to Canadian research methodologies
-- Contributed to ongoing research initiatives
-
-**Outcomes:**
-- Enhanced research skills through international collaboration
-- Developed global perspective on AI research challenges
-- Built network with international researchers and academics
-- Contributed to joint research publications (in preparation)
+### Visiting Researcher — MITACS Globalink Research Internship
+*Dalhousie University, Nova Scotia, Canada | June 2024 – Sept 2024*
+- Selected for the prestigious MITACS Globalink Research Internship, a fully funded 12-week on-site research program in Canada.
+- Led a Computer Vision project on contactless and non-invasive cattle recognition, from data acquisition to model development.
+- Explored U-Net, Mask R-CNN, DeepLabV3, ResNet, and EfficientNet for segmentation and feature extraction.
 
 ---
 
-## 📚 Research Interests
+## 📚 Research Projects
 
-### **Primary Areas of Focus:**
-
-**1. Explainable Artificial Intelligence (XAI)**
-- Developing interpretable machine learning models
-- Creating visualization techniques for model transparency
-- Addressing the black-box problem in deep learning
-- Applications in healthcare and critical decision-making systems
-
-**2. Healthcare AI and Medical Informatics**
-- AI-assisted medical diagnosis and prognosis
-- Biomedical signal processing and analysis
-- Electronic health record analysis
-- Clinical decision support systems
-
-**3. Computer Vision and Deep Learning**
-- Medical image analysis and interpretation
-- Real-time object detection and recognition
-- Transfer learning and domain adaptation
-- Multimodal learning approaches
-
-**4. Natural Language Processing**
-- Clinical text mining and analysis
-- Medical literature analysis
-- Automated report generation
-- Conversational AI for healthcare applications
+- **Explainable AI for Automated EEG Interpretation:**
+  - Developed a model for automated EEG interpretation, assisting in neurological diagnosis with enhanced transparency and human-interpretable reports.
+- **Contactless and Non-Invasive Individual Cattle Recognition:**
+  - Built a deep learning model to recognize individual dairy cows using non-invasive image-based techniques.
+- **Landslide Susceptibility and Prediction:**
+  - Created a machine learning model for predicting landslide susceptibility using geospatial and environmental data.
 
 ---
 
-## 🎯 Current Research Initiatives
+## 🌍 Publications & Presentations
 
-### **Industry-Academia Collaboration**
-Currently bridging academic research with industry applications at Huawei Pakistan:
-- Exploring AI applications in telecommunications
-- Investigating machine learning for network optimization
-- Developing intelligent systems for enterprise solutions
-
-### **Ongoing Projects**
-- **Telecom AI Solutions:** Applying AI/ML techniques to telecommunications challenges
-- **Explainable AI Framework:** Continuing development of interpretable AI systems
-- **Healthcare Technology:** Maintaining research connections in medical AI applications
+- **2nd Place — AI in Medicine Conference 2025**
+  - Presented "NeuroSense: X-AI system for automated EEG interpretation" at NUMS, Pakistan.
+- **1st Place — Poster Competition, 4th International ICoDT2 Conference**
+  - Awarded for best presentation and innovation among 20+ research posters.
 
 ---
 
-## 📖 Publications & Presentations
-
-### **Conference Presentations**
-- **Winner - Research Poster Competition, 4th ICoDT2 Conference**
-  - Title: "Explainable AI for Automated EEG Interpretation"
-  - Presented novel approaches to interpretable neural signal analysis
-  - Recognized for innovation and research excellence
-
-### **Publications in Preparation**
-- Research papers on explainable AI methodologies (under review)
-- Technical reports on EEG analysis techniques
-- Collaborative publications from MITACS internship
-
----
-
-## 🤝 Research Collaborations
-
-### **Academic Partnerships**
-- **TUKL-NUST Deep Learning Lab:** Ongoing collaboration and mentorship
-- **Dalhousie University, Canada:** International research partnerships
-- **Industry Collaborations:** Research applications at Huawei Pakistan
-
-### **Research Networks**
-- Member of AI and Machine Learning research communities
-- Participant in international conferences and workshops
-- Contributor to open-source research projects
-
----
-
-## 🔮 Future Research Directions
-
-### **Short-term Goals**
-- Publish research findings in peer-reviewed journals
-- Develop industry applications of explainable AI
-- Expand research in telecommunications AI
-
-### **Long-term Vision**
-- Establish research lab focusing on interpretable AI
-- Contribute to policy development for AI transparency
-- Bridge the gap between academic research and industry implementation
-
-*My research journey reflects a commitment to developing AI systems that are not only powerful but also transparent, trustworthy, and beneficial for society.*
+## 🔭 Future Directions
+- Continue research in Explainable AI, Computer Vision, and Generative Models.
+- Seek graduate school opportunities and international collaborations.
+- Bridge the gap between academic research and impactful real-world applications.

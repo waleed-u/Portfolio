@@ -5,55 +5,34 @@ permalink: /achievements/
 author_profile: true
 ---
 
-## 🏆 Academic & Professional Achievements
+## 🏆 Major Achievements
 
-### **Competition Achievements**
+### 3rd Place — Huawei ICT Competition 2024–25 Global Finals
+*May 2025 | Shenzhen, China*
+- Represented Pakistan as part of a three-member team in the Cloud Track (AI, Big Data, Cloud streams), securing 3rd place globally among competitors from 40+ countries.
 
-**🥈 2nd Position - Huawei ICT Competition 2024-25**
-- **Regional Finals of MECA Region**
-- Demonstrated excellence in Information and Communication Technology
-- Competed against top talent from across the region
+### 2nd Place — AI in Medicine Conference 2025
+*Apr 2025 | NUMS, Pakistan*
+- Presented "NeuroSense: X-AI system for automated EEG interpretation" and secured 2nd position among healthcare projects.
 
-**🏆 Winner - Research Poster Competition**
-- **4th ICoDT2 Conference**
-- Recognized for outstanding research presentation and innovation
-- Showcased cutting-edge research in technology and development
+### 2nd Place — Huawei ICT Competition Regional Finals (ME & CA)
+*Dec 2024 | Riyadh, KSA*
+- Selected from 14,000+ national applicants to represent Pakistan; achieved 2nd place among 31,000+ competitors across 14 countries in the Middle East & Central Asia region.
 
-**🥉 3rd Place - National Finals**
-- **Huawei ICT Competition 2023-24**
-- Consistent high performance in national-level competition
-- Demonstrated strong technical and problem-solving skills
+### 1st Place — Poster Competition, 4th International ICoDT2 Conference
+*Oct 2024 | Islamabad*
+- Awarded #1 for best presentation and innovation among 20+ competing research posters.
 
-### **International Recognition**
+### 3rd Place — Huawei ICT Competition 2023-24 National Finals (Pakistan)
+*Feb 2024 | Islamabad*
+- Achieved top 0.03% rank in the Cloud Track among 10,000+ national competitors.
 
-**🌍 MITACS Globalink Research Internship**
-- **Dalhousie University, Canada**
-- Selected for prestigious international research program
-- Conducted advanced research in collaboration with Canadian institutions
-- Gained valuable international research experience
+### MITACS Globalink Research Fellow
+*Jun 2024 – Sep 2024 | Dalhousie University, Canada*
+- Awarded a fully funded 12-week research internship.
 
-### **Academic Excellence**
-
-**🎓 Software Engineering Graduate**
-- **National University of Sciences & Technology (NUST)**
-- Graduated with distinction in Software Engineering
-- Strong foundation in computer science and engineering principles
-
-### **Research & Innovation**
-
-**🔬 Research Assistant**
-- **TUKL-NUST Deep Learning Lab**
-- Contributed to cutting-edge research in Explainable AI (X-AI)
-- Specialized in automated EEG interpretation
-- Published research and technical contributions
-
-### **Professional Milestones**
-
-**💼 Software Engineer**
-- **Huawei Pakistan**
-- Successfully transitioned from academia to industry
-- Contributing to telecommunications and technology innovation
-- Applying advanced technical skills in enterprise environment
+### High Achiever Medals
+- Recipient of 2 Gold and 2 Silver High Achiever Medals for extracurricular and academic achievements during undergrad at NUST.
 
 ---
 
