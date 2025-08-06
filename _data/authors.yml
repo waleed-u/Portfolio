@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+Waleed Ahmed:
+  name        : "Waleed Ahmed"
+  uri         : "https://waleed-u.github.io"
+  email       : "wahmed.bese21seecs@seecs.edu.pk"
+  bio         : "Final-semester Software Engineering student at NUST, Research Assistant at TUKL-NUST Deep Learning Lab, passionate about Explainable AI and Machine Learning"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  github      : "waleed-u"
+  linkedin    : "waleed-u"
+  instagram   : "waleedu_"
